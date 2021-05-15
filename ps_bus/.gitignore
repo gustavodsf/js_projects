@@ -1,0 +1,7 @@
+# ignore mac os DS_Store
+.DS_Store
+
+# node modules
+node_modules/
+
+npm-debug.log

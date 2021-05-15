@@ -1,0 +1,11 @@
+db.configurations.remove({});
+db.configurations.insertMany([
+  {
+    "password" : "xcpioBsrTRtQ4+nIAanKfywdAfyUeZXw89mzjPnUzsofm4nIGFvXFCUT7DsNb+n8Lbd7+5KD9tmTCmk1ANhRGQ==",
+    "salt" : "-\u000e`\\GoƤ^\u0013�l/���",
+    "garage" : "3",
+    "tank" : "3",
+    "pump" : "4",
+    "fuel" : "0009",
+    "oil" : "0019"
+}]);

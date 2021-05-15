@@ -1,0 +1,1170 @@
+[{
+	"_id": "58c44820f256f11238e4ee0b",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T15:56:25.025Z",
+		"motor_oil": 10,
+		"pump_position": 10,
+		"stick_mesaure": 10
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c44840f256f11238e4ee0c",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:56:00.031Z",
+		"fuel": 300,
+		"odometer": 7000,
+		"driver_registration": 5411,
+		"bus_number": 32175
+	}, {
+		"_id": "58c44851f256f11238e4ee0d",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:56:17.589Z",
+		"fuel": 25.255,
+		"odometer": 54,
+		"driver_registration": 6998,
+		"bus_number": 44432
+	}],
+	"open": {
+		"registration": 5498,
+		"stick_mesaure": 40,
+		"motor_oil": 40,
+		"pump_position": 40,
+		"date": "2017-03-11T15:55:28.751Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c448daf256f11238e4ee0e",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T15:58:58.275Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c448eaf256f11238e4ee0f",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:58:50.272Z",
+		"fuel": 15,
+		"odometer": 50,
+		"driver_registration": 6998,
+		"bus_number": 27141
+	}],
+	"open": {
+		"registration": 6998,
+		"stick_mesaure": 50,
+		"motor_oil": 50,
+		"pump_position": 50,
+		"date": "2017-03-11T15:58:34.430Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c4497013e3aa13afb6f55b",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:01:38.774Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c4498d13e3aa13afb6f55c",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:01:33.189Z",
+		"fuel": 25.025,
+		"odometer": 90,
+		"driver_registration": 6998,
+		"bus_number": 45421
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:01:04.747Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c449b3d3166514e226b5eb",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:02:33.896Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c449c5d3166514e226b5ec",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:02:29.537Z",
+		"fuel": 50,
+		"odometer": 50,
+		"driver_registration": 6998,
+		"bus_number": 45422
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:02:11.401Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c44a7c93ed6d15f1b4e739",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:06:14.440Z",
+		"motor_oil": 21,
+		"pump_position": 21,
+		"stick_mesaure": 21
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c44a9893ed6d15f1b4e73a",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:06:00.637Z",
+		"fuel": 25.2,
+		"odometer": 90,
+		"driver_registration": 6411,
+		"bus_number": 13153
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:05:32.809Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c44b5f677a2d16f6c5c82d",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:09:44.678Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c44b71677a2d16f6c5c82e",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:09:37.828Z",
+		"fuel": 20,
+		"odometer": 54,
+		"driver_registration": 6998,
+		"bus_number": 32174
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:09:19.041Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c442962f16700abe3d182c",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T15:37:53.344Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [{
+		"_id": "58c443e22f16700abe3d1833",
+		"time": "2017-03-11T15:37:22.893Z",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"amount": 1,
+		"bus_number": 45420
+	}, {
+		"_id": "58c443f82f16700abe3d1834",
+		"time": "2017-03-11T15:37:44.757Z",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"amount": 2,
+		"bus_number": 25214
+	}],
+	"refuel": [{
+		"_id": "58c442a82f16700abe3d182d",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:32:08.022Z",
+		"fuel": 5.02,
+		"odometer": 54,
+		"driver_registration": 6996,
+		"bus_number": 32175
+	}, {
+		"_id": "58c442bb2f16700abe3d182e",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:32:27.752Z",
+		"fuel": 20,
+		"odometer": 54,
+		"driver_registration": 5998,
+		"bus_number": 30300
+	}, {
+		"_id": "58c4438e2f16700abe3d182f",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:35:58.058Z",
+		"fuel": 40,
+		"odometer": 90,
+		"driver_registration": 5411,
+		"bus_number": 29117
+	}, {
+		"_id": "58c443a52f16700abe3d1830",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:36:21.295Z",
+		"fuel": 45.455,
+		"odometer": 90,
+		"driver_registration": 5411,
+		"bus_number": 25214
+	}, {
+		"_id": "58c443c02f16700abe3d1831",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:36:48.410Z",
+		"fuel": 10,
+		"odometer": 1000,
+		"driver_registration": 6998,
+		"bus_number": 12146
+	}, {
+		"_id": "58c443d82f16700abe3d1832",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:37:12.523Z",
+		"fuel": 40,
+		"odometer": 909,
+		"driver_registration": 5411,
+		"bus_number": 45420
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T15:31:50.777Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c4454f2f16700abe3d1835",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T15:46:48.075Z",
+		"motor_oil": 20,
+		"pump_position": 20,
+		"stick_mesaure": 20
+	},
+	"oil": [{
+		"_id": "58c446062f16700abe3d183d",
+		"time": "2017-03-11T15:46:30.127Z",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"amount": 9.999,
+		"bus_number": 30301
+	}, {
+		"_id": "58c4460f2f16700abe3d183e",
+		"time": "2017-03-11T15:46:39.850Z",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"amount": 11.111,
+		"bus_number": 30302
+	}],
+	"refuel": [{
+		"_id": "58c4455d2f16700abe3d1836",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:43:41.269Z",
+		"fuel": 30,
+		"odometer": 300,
+		"driver_registration": 6989,
+		"bus_number": 30301
+	}, {
+		"_id": "58c4457c2f16700abe3d1837",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:44:12.410Z",
+		"fuel": 90,
+		"odometer": 3010,
+		"driver_registration": 5411,
+		"bus_number": 30301
+	}, {
+		"_id": "58c4459a2f16700abe3d1838",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:44:42.558Z",
+		"fuel": 80,
+		"odometer": 301,
+		"driver_registration": 6998,
+		"bus_number": 30302
+	}, {
+		"_id": "58c445b02f16700abe3d1839",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:45:04.560Z",
+		"fuel": 33.333,
+		"odometer": 90,
+		"driver_registration": 5661,
+		"bus_number": 30303
+	}, {
+		"_id": "58c445c62f16700abe3d183a",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:45:26.809Z",
+		"fuel": 255.555,
+		"odometer": 3636,
+		"driver_registration": 6997,
+		"bus_number": 30304
+	}, {
+		"_id": "58c445e72f16700abe3d183b",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:45:59.278Z",
+		"fuel": 300,
+		"odometer": 900,
+		"driver_registration": 5661,
+		"bus_number": 31306
+	}, {
+		"_id": "58c445fb2f16700abe3d183c",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:46:19.371Z",
+		"fuel": 45,
+		"odometer": 5411,
+		"driver_registration": 8998,
+		"bus_number": 32175
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T15:43:27.735Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c446939d976010e8656386",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T15:52:27.242Z",
+		"motor_oil": 5,
+		"pump_position": 5,
+		"stick_mesaure": 5
+	},
+	"oil": [{
+		"_id": "58c4474f9d976010e865638d",
+		"time": "2017-03-11T15:51:59.590Z",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"amount": 10,
+		"bus_number": 36128
+	}, {
+		"_id": "58c4475f9d976010e865638e",
+		"time": "2017-03-11T15:52:15.355Z",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"amount": 9,
+		"bus_number": 36133
+	}],
+	"refuel": [{
+		"_id": "58c446c89d976010e8656387",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:49:44.884Z",
+		"fuel": 60,
+		"odometer": 90,
+		"driver_registration": 5411,
+		"bus_number": 13156
+	}, {
+		"_id": "58c446dc9d976010e8656388",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:50:04.383Z",
+		"fuel": 50,
+		"odometer": 90,
+		"driver_registration": 5411,
+		"bus_number": 13155
+	}, {
+		"_id": "58c446ea9d976010e8656389",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:50:18.985Z",
+		"fuel": 20,
+		"odometer": 54,
+		"driver_registration": 6998,
+		"bus_number": 13154
+	}, {
+		"_id": "58c447039d976010e865638a",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:50:43.917Z",
+		"fuel": 100.01,
+		"odometer": 6000,
+		"driver_registration": 6998,
+		"bus_number": 32175
+	}, {
+		"_id": "58c4472a9d976010e865638b",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:51:22.054Z",
+		"fuel": 10.001,
+		"odometer": 90,
+		"driver_registration": 8969,
+		"bus_number": 36128
+	}, {
+		"_id": "58c447409d976010e865638c",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T15:51:44.698Z",
+		"fuel": 25.25,
+		"odometer": 2525,
+		"driver_registration": 6411,
+		"bus_number": 36133
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T15:48:51.816Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c44d1f677a2d16f6c5c82f",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:17:14.695Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c44d34677a2d16f6c5c830",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:17:08.510Z",
+		"fuel": 300,
+		"odometer": 7500,
+		"driver_registration": 6998,
+		"bus_number": 32175
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:16:47.175Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c44d73f80d7419abded5fc",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:18:48.240Z",
+		"motor_oil": 40,
+		"pump_position": 40,
+		"stick_mesaure": 40
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c44d91f80d7419abded5fd",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:18:41.232Z",
+		"fuel": 100,
+		"odometer": 7800,
+		"driver_registration": 6998,
+		"bus_number": 32175
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:18:11.554Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c44e28f80d7419abded5fe",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:21:44.008Z",
+		"motor_oil": 50,
+		"pump_position": 50,
+		"stick_mesaure": 50
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c44e43f80d7419abded5ff",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:21:39.233Z",
+		"fuel": 33.333,
+		"odometer": 100,
+		"driver_registration": 6998,
+		"bus_number": 32312
+	}],
+	"open": {
+		"registration": 8998,
+		"stick_mesaure": 54,
+		"motor_oil": 54,
+		"pump_position": 54,
+		"date": "2017-03-11T16:21:12.574Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c44e94f80d7419abded600",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:23:30.326Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c44eaef80d7419abded601",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:23:26.312Z",
+		"fuel": 13,
+		"odometer": 50,
+		"driver_registration": 6998,
+		"bus_number": 32173
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:23:00.309Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c44f5a4056551bb93218cc",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:26:44.086Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c44f6e4056551bb93218cd",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:26:38.585Z",
+		"fuel": 300,
+		"odometer": 9000,
+		"driver_registration": 6998,
+		"bus_number": 32175
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:26:18.899Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c44fb14056551bb93218ce",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:28:13.016Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c44fc84056551bb93218cf",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:28:08.084Z",
+		"fuel": 25,
+		"odometer": 400,
+		"driver_registration": 6998,
+		"bus_number": 32176
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:27:45.465Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c45000faa4e31d9ad9cd58",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:29:53.024Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c4502cfaa4e31d9ad9cd59",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:29:48.266Z",
+		"fuel": 320,
+		"odometer": 10000,
+		"driver_registration": 5411,
+		"bus_number": 32175
+	}],
+	"open": {
+		"registration": 6411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:29:04.814Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c45083268b271f6df35a20",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:31:38.942Z",
+		"motor_oil": 32,
+		"pump_position": 32,
+		"stick_mesaure": 32
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c45093268b271f6df35a21",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:31:31.238Z",
+		"fuel": 280,
+		"odometer": 90,
+		"driver_registration": 5411,
+		"bus_number": 32313
+	}],
+	"open": {
+		"registration": 6411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:31:15.517Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c45370e1f6f122a044c778",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:44:05.475Z",
+		"motor_oil": 50,
+		"pump_position": 50,
+		"stick_mesaure": 50
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c45380e1f6f122a044c779",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:44:00.861Z",
+		"fuel": 99.999,
+		"odometer": 11200,
+		"driver_registration": 6998,
+		"bus_number": 32175
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:43:44.126Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c453c4c90c7c239ecd355d",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:45:32.876Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c453d8c90c7c239ecd355e",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:45:28.365Z",
+		"fuel": 300,
+		"odometer": 12000,
+		"driver_registration": 8989,
+		"bus_number": 32175
+	}],
+	"open": {
+		"registration": 6998,
+		"stick_mesaure": 54,
+		"motor_oil": 54,
+		"pump_position": 54,
+		"date": "2017-03-11T16:45:08.626Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c45467dc662124d276bc6f",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:48:15.054Z",
+		"motor_oil": 32,
+		"pump_position": 32,
+		"stick_mesaure": 32
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c4547adc662124d276bc70",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:48:10.576Z",
+		"fuel": 300,
+		"odometer": 15000,
+		"driver_registration": 6998,
+		"bus_number": 32175
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:47:51.839Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c454b473946225b337d94d",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T16:49:29.308Z",
+		"motor_oil": 32,
+		"pump_position": 32,
+		"stick_mesaure": 32
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c454c173946225b337d94e",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T16:49:21.416Z",
+		"fuel": 300,
+		"odometer": 16000,
+		"driver_registration": 5411,
+		"bus_number": 32175
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T16:49:08.267Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c457b51cec1028878bb6f2",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T17:02:37.656Z",
+		"motor_oil": 54,
+		"pump_position": 54,
+		"stick_mesaure": 54
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c457d71cec1028878bb6f3",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T17:02:31.612Z",
+		"fuel": 40,
+		"odometer": 1000,
+		"driver_registration": 5411,
+		"bus_number": 45420
+	}],
+	"open": {
+		"registration": 6998,
+		"stick_mesaure": 90,
+		"motor_oil": 5411,
+		"pump_position": 90,
+		"date": "2017-03-11T17:01:57.829Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c4581011f13b29624ce48d",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T17:04:07.536Z",
+		"motor_oil": 20,
+		"pump_position": 20,
+		"stick_mesaure": 20
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c4582711f13b29624ce48e",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T17:03:51.650Z",
+		"fuel": 99.999,
+		"odometer": 90,
+		"driver_registration": 5411,
+		"bus_number": 25213
+	}],
+	"open": {
+		"registration": 6988,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T17:03:28.573Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c458cd6513db2b2bb1bdaf",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T17:07:04.691Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c458e16513db2b2bb1bdb0",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T17:06:57.412Z",
+		"fuel": 200,
+		"odometer": 1200,
+		"driver_registration": 5411,
+		"bus_number": 30300
+	}],
+	"open": {
+		"registration": 6411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T17:06:37.389Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c45959c1c0db2c2535c082",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T17:09:22.415Z",
+		"motor_oil": 40,
+		"pump_position": 40,
+		"stick_mesaure": 40
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c4596dc1c0db2c2535c083",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T17:09:17.310Z",
+		"fuel": 300,
+		"odometer": 2000,
+		"driver_registration": 6998,
+		"bus_number": 32173
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T17:08:57.324Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c45a05532bc52d04f54890",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T17:12:19.805Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c45a1d532bc52d04f54891",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T17:12:13.928Z",
+		"fuel": 25.255,
+		"odometer": 200,
+		"driver_registration": 6989,
+		"bus_number": 30303
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T17:11:49.269Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c45a65bd95a82dd0a7639c",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T17:14:01.668Z",
+		"motor_oil": 20,
+		"pump_position": 20,
+		"stick_mesaure": 20
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c45a85bd95a82dd0a7639d",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T17:13:57.222Z",
+		"fuel": 33.333,
+		"odometer": 200,
+		"driver_registration": 6998,
+		"bus_number": 32314
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T17:13:25.866Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c45c288c477f321eba7e63",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T17:21:38.859Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c45c4c8c477f321eba7e64",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T17:21:32.970Z",
+		"fuel": 25.255,
+		"odometer": 5411,
+		"driver_registration": 6998,
+		"bus_number": 31309
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T17:20:56.593Z"
+	},
+	"__v": 0
+}, {
+	"_id": "58c45c7b35dd293405e8034a",
+	"sended": false,
+	"close": {
+		"oil_error": true,
+		"fuel_error": true,
+		"data": "2017-03-11T17:22:44.190Z",
+		"motor_oil": 30,
+		"pump_position": 30,
+		"stick_mesaure": 30
+	},
+	"oil": [],
+	"refuel": [{
+		"_id": "58c45c9035dd293405e8034b",
+		"fuel_type": "0009",
+		"tank": "3",
+		"pump": "4",
+		"garage": "3",
+		"time": "2017-03-11T17:22:40.247Z",
+		"fuel": 300,
+		"odometer": 2000,
+		"driver_registration": 6998,
+		"bus_number": 30300
+	}],
+	"open": {
+		"registration": 5411,
+		"stick_mesaure": 90,
+		"motor_oil": 90,
+		"pump_position": 90,
+		"date": "2017-03-11T17:22:19.966Z"
+	},
+	"__v": 0
+}]

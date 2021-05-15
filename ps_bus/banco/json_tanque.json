@@ -1,0 +1,18 @@
+db.tanks.remove({});
+db.tanks.insertMany([
+    {"name":"Tanque Três Rios"     , "code": "1"  ,"oil_type":"0001","tank_capacity":"30000","type":"CO"},
+    {"name":"Tanque Além Paraíba"  , "code": "2"  ,"oil_type":"0003","tank_capacity":"15000","type":"CO"},
+    {"name":"Tanque Vassouras"     , "code": "3"  ,"oil_type":"0009","tank_capacity":"15000","type":"CO"},
+    {"name":"Tanque Barra Mansa"   , "code": "4"  ,"oil_type":"0010","tank_capacity":"15000","type":"CO"},
+    {"name":"Tanque Juiz de Fora"  , "code": "5"  ,"oil_type":"0011","tank_capacity":"15000","type":"CO"},
+    {"name":"Tanque São José"      , "code": "6"  ,"oil_type":"0012","tank_capacity":"15000","type":"CO"},
+    {"name":"Tanque Paraíba do Sul", "code": "7"  ,"oil_type":"0013","tank_capacity":"15000","type":"CO"},
+    {"name":"Tambor Três Rios"     , "code": "8"  ,"oil_type":"0002","tank_capacity":"15000","type":"MO"},
+    {"name":"Tambor Além Paraíba"  , "code": "9"  ,"oil_type":"0004","tank_capacity":"200"  ,"type":"MO"},
+    {"name":"Tambor Vassouras"     , "code": "10" ,"oil_type":"0018","tank_capacity":"200"  ,"type":"MO"},
+    {"name":"Tambor Barra Mansa"   , "code": "11" ,"oil_type":"0023","tank_capacity":"200"  ,"type":"MO"},
+    {"name":"Tambor Juiz de Fora"  , "code": "12" ,"oil_type":"0028","tank_capacity":"200"  ,"type":"MO"},
+    {"name":"Tambor São José"      , "code": "13" ,"oil_type":"0033","tank_capacity":"200"  ,"type":"MO"},
+    {"name":"Tambor Paraíba do Sul", "code": "14" ,"oil_type":"0038","tank_capacity":"200"  ,"type":"MO"},
+    {"name":"Tambor Areal"         , "code": "15" ,"oil_type":"0002","tank_capacity":"200"  ,"type":"MO"}
+]);

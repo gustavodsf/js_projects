@@ -1,0 +1,5 @@
+db.docupdates.remove({})
+db.docupdates.insert({
+    "emmployee_update" : new Date(),
+    "fleet_update" : new Date()
+})

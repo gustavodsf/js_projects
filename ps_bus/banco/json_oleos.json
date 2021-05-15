@@ -1,0 +1,22 @@
+db.oils.remove({});
+db.oils.insertMany([
+    {"name":"Óleo Motor Bardal B12 Turbo"      ,"code":"0005","oil_type":"MO","company":"1","branch":"1","material":null      ,"local":null ,"brand":null},
+    {"name":"Óleo Motor Bardal B12 Turbo AP"   ,"code":"0014","oil_type":"MO","company":"1","branch":"2","material":null      ,"local":null ,"brand":null},
+    {"name":"Óleo Motor Bardal B12 Turbo BMS"  ,"code":"0024","oil_type":"MO","company":"1","branch":"4","material":null      ,"local":null ,"brand":null},
+    {"name":"Óleo Motor Bardal B12 Turbo JUF"  ,"code":"0029","oil_type":"MO","company":"1","branch":"5","material":null      ,"local":null ,"brand":null},
+    {"name":"Óleo Motor Bardal B12 Turbo PS"   ,"code":"0039","oil_type":"MO","company":"1","branch":"7","material":null      ,"local":null ,"brand":null},
+    {"name":"Óleo Motor Bardal B12 Turbo SJ"   ,"code":"0034","oil_type":"MO","company":"1","branch":"6","material":null      ,"local":null ,"brand":null},
+    {"name":"Óleo Motor Bardal B12 Turbo VAS"  ,"code":"0019","oil_type":"MO","company":"1","branch":"3","material":null      ,"local":null ,"brand":null},
+    {"name":"Óleo Motor Brutus Alta Perfor"    ,"code":"0002","oil_type":"MO","company":"1","branch":"1","material":"05020021","local":"1"  ,"brand":"76"},
+    {"name":"Óleo Motor Brutus Alta Perfor AP" ,"code":"0004","oil_type":"MO","company":"1","branch":"2","material":"05020021","local":"1"  ,"brand":"76"},
+    {"name":"Óleo Motor Brutus Alta Perfor BMS","code":"0023","oil_type":"MO","company":"1","branch":"4","material":"05020021","local":"3"  ,"brand":"76"},
+    {"name":"Óleo Motor Brutus Alta Perfor JUF","code":"0028","oil_type":"MO","company":"1","branch":"5","material":"05020021","local":"1"  ,"brand":"76"},
+    {"name":"Óleo Motor Brutus Alta Perfor PS" ,"code":"0038","oil_type":"MO","company":"1","branch":"7","material":"05020021","local":"1"  ,"brand":"76"},
+    {"name":"Óleo Motor Brutus Alta Perfor SJ" ,"code":"0033","oil_type":"MO","company":"1","branch":"7","material":"05020021","local":"6"  ,"brand":"76"},
+    {"name":"Óleo Motor Brutus Alta Perfor VAS","code":"0018","oil_type":"MO","company":"1","branch":"3","material":"05020021","local":"3"  ,"brand":"76"},
+    {"name":"Óleo Motor F1 SUPER 20W40"        ,"code":"0007","oil_type":"MO","company":"1","branch":"1","material":null      ,"local":null ,"brand":null},
+    {"name":"Óleo Motor F1 SUPER 20W40 AP"     ,"code":"0016","oil_type":"MO","company":"1","branch":"2","material":null      ,"local":null ,"brand":null},
+    {"name":"Óleo Motor F1 SUPER 20W40 BMS"    ,"code":"0026","oil_type":"MO","company":"1","branch":"4","material":null      ,"local":null ,"brand":null},
+    {"name":"Óleo Motor F1 SUPER 20W40 JUF"    ,"code":"0031","oil_type":"MO","company":"1","branch":"5","material":null      ,"local":null ,"brand":null},
+    {"name":"Óleo Motor F1 SUPER 20W40 PS"     ,"code":"0031","oil_type":"MO","company":"1","branch":"7","material":null      ,"local":null ,"brand":null},
+]);

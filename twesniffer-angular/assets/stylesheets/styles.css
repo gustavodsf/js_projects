@@ -1,0 +1,8 @@
+.spanForTwe{
+	color: #1da2f0;
+}
+
+.navbar-brand.logo:hover,
+.navbar-brand.logo:hover span{
+	color: #18bc9c;
+}

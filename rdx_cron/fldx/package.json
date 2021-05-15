@@ -1,0 +1,17 @@
+{
+  "name": "gustavo.figueiredo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rdx_approve_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "mocha rdx_approve_script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^7.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}

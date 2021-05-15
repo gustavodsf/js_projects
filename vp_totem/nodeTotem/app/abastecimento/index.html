@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Viação Progresso - ISO 9001</title>
+        <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../static/css/bootstrap-theme.min.css" rel="stylesheet">
+        <link href="../static/css/abastecimento.css" rel="stylesheet">
+    </head>
+    <body onload="load();">
+        <div class="page-header text-center">
+            <image id="headerImagem" src="../static/image/header.png" alt="header_progresso">
+        </div>
+        <div class="container" id="content">
+            <div class="row" id="headerBottonGroup">
+                <div class="col-sm-3 text-center">
+                   <button type="button" class="btn btn-primary" onclick="navigationAbastecimento('MENU')" >Menu</button>
+                 </div>
+                 <div class="col-sm-3 text-center">
+                    <button type="button" class="btn btn-primary" id="idAbastacimento" onclick="navigationAbastecimento('ABASTECER')">Abastecer</button>
+                </div>
+                <div class="col-sm-3 text-center">
+                    <button type="button" class="btn btn-success" id="iniciarJornada" onclick="navigationAbastecimento('INICIAR')" >Iniciar Jornada</button>
+               </div>
+                <div class="col-sm-3 text-center">
+                     <button type="button" class="btn btn-danger" id="encerrarJornada" onclick="navigationAbastecimento('ENCERRAR')">Encerrar Jornada</button>
+                </div>
+            </div>
+            <div class="row">
+                <div id="msgContent"> </div>
+                <div class="col-sm-9">
+                    <div id="formGlobal">
+                        <div id="formInicioJornada">
+                            <div class="form-group row">
+                                <label id="matriculaBombeiroInicioLabel" for="matriculaBombeiroInicio" class="col-xs-3 col-form-label">Matrícula</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="matriculaBombeiroInicio">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label id="oleoMotorInicioLabel" for="oleoMotorInicio" class="col-xs-3 col-form-label">Óleo de Motor</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="oleoMotorInicio">
+                                </div>
+                            </div>
+                            <div class="form-group row error">
+                                <label id="posicaoRegistroBombaInicioLabel" for="posicaoRegistroBombaInicio" class="col-xs-3 col-form-label">Posição Registro Bomba</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="posicaoRegistroBombaInicio">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label id="medicaoVaraInicioLabel" for="medicaoVaraInicio" class="col-xs-3 col-form-label">Medição Vara nos Tanques</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="medicaoVaraInicio">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label id="dataLabel" for="data" class="col-xs-3 col-form-label">Data</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text" id="data" disabled="true">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label id="regionalLabel" for="regional" class="col-xs-3 col-form-label">Regional</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text" value="Vassouras" id="regional" disabled="true">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <button type="button" class="btn btn-warning" id="cadAbrirJornada">Abrir Jornada</button>
+                            </div>
+                        </div>
+                        <div id="formFimJornada">
+                            <div class="form-group row">
+                                <label id="oleoMotorFimLabel" for="oleoMotorFim" class="col-xs-3 col-form-label">Óleo de Motor</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="oleoMotorFim">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label id="posicaoRegistroBombaFimLabel" for="posicaoRegistroBombaFim" class="col-xs-3 col-form-label">Posição Registro Bomba</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="posicaoRegistroBombaFim">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label id="medicaoVaraFimLabel" for="medicaoVaraFim" class="col-xs-3 col-form-label">Medição Vara nos Tanques</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="medicaoVaraFim">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <button type="button" class="btn btn-warning" id="cadEncerrarJornada">Encerrar Jornada</button>
+                            </div>
+                        </div>
+                        <div id="formAbastecimentoJornada">
+                            <div class="form-group row">
+                                <label id="numeroCarroLabel" for="numeroCarro" class="col-xs-3 col-form-label">Número Carro</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="numeroCarro">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label id="matriculaMotoristaLabel" for="matriculaMotorista" class="col-xs-3 col-form-label">Matrícula Motorista</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="matriculaMotorista">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label id="odometroLabel" for="odometro" class="col-xs-3 col-form-label">Odômetro (KM)</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="odometro">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label id="combustivelLabel" for="combustivel" class="col-xs-3 col-form-label">Combustível (L)</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="combustivel">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="oleoMotor" class="col-xs-3 col-form-label">Óleo Motor</label>
+                                <div class="col-xs-7">
+                                    <input class="form-control input" type="text"  id="oleoMotor">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <button type="button" class="col-xs-4 btn btn-warning" id="cadAbastecimento">Salvar </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3" id="numberPad">
+                    <div class="btn-group text-center">
+                      <button type="button" class="btn btn-primary number">7</button>
+                      <button type="button" class="btn btn-primary number">8</button>
+                      <button type="button" class="btn btn-primary number">9</button>
+                    </div>
+                    <div class="btn-group text-center">
+                      <button type="button" class="btn btn-primary number">4</button>
+                      <button type="button" class="btn btn-primary number">5</button>
+                      <button type="button" class="btn btn-primary number">6</button>
+                    </div>
+                    <div class="btn-group text-center">
+                      <button type="button" class="btn btn-primary number">1</button>
+                      <button type="button" class="btn btn-primary number">2</button>
+                      <button type="button" class="btn btn-primary number">3</button>
+                    </div>
+                    <div class="btn-group text-center">
+                      <button type="button" class="btn btn-primary back"> <image  src="../static/image/back.png" alt="Remove Um"> </button>
+                      <button type="button" class="btn btn-primary number">0</button>
+                      <button type="button" class="btn btn-primary cancel"> <image src="../static/image/cancel.png" alt="Limpar Campo"> </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="../static/js/jquery-3.1.0.min.js" ></script>
+        <script>window.$ = window.jQuery = require('jquery');</script>
+        <script src="../static/js/bootstrap.min.js" ></script>
+        <script src="../static/js/navigation.js" ></script>
+        <script src="../static/js/action.js" ></script>
+    </body>
+</html>

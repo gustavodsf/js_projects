@@ -1,0 +1,10 @@
+db.garages.remove({});
+db.garages.insertMany([
+    {"name":"Garagem Três Rios"      ,"inscription":"32404063000108" ,"code":"1"},
+    {"name":"Garagens Além Paraíba"  ,"inscription":"32404063002810" ,"code":"2"},
+    {"name":"Garagem Vassouras"      ,"inscription":"32404063004600" ,"code":"3"},
+    {"name":"Garagem Barra Mansa"    ,"inscription":"32404063002577" ,"code":"4"},
+    {"name":"Garagem Juiz de Fora"   ,"inscription":"32404063000280" ,"code":"5"},
+    {"name":"Garagem São José"       ,"inscription":"32404063003891" ,"code":"6"},
+    {"name":"Garagem Paraíba do Sul" ,"inscription":"32404063001929" ,"code":"7"},
+]);

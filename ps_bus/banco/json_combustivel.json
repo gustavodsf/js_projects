@@ -1,0 +1,11 @@
+db.fuels.remove({});
+db.fuels.insertMany([
+    {"name":"Gasolina"                         ,"code":"0043","oil_type":"CO","company":"1","branch":"1","material":null      ,"local":null,"brand":null},
+    {"name":"Óleo Diesel Além Paraíba"         ,"code":"0003","oil_type":"CO","company":"1","branch":"2","material":"05010001","local":"2" ,"brand":"76"},
+    {"name":"Óleo Diesel Barra Mansa"          ,"code":"0010","oil_type":"CO","company":"1","branch":"4","material":"05010001","local":"4" ,"brand":"76"},
+    {"name":"Óleo Diesel Juiz de Fora"         ,"code":"0011","oil_type":"CO","company":"1","branch":"5","material":"05010001","local":"5" ,"brand":"76"},
+    {"name":"Óleo Diesel Paraiba do Sul"       ,"code":"0013","oil_type":"CO","company":"1","branch":"7","material":"05010001","local":"7" ,"brand":"76"},
+    {"name":"Óleo Diesel São Jośe"             ,"code":"0012","oil_type":"CO","company":"1","branch":"6","material":"05010001","local":"6" ,"brand":"76"},
+    {"name":"Óleo Diesel Três Rios"            ,"code":"0001","oil_type":"CO","company":"1","branch":"1","material":"05010001","local":"1" ,"brand":"76"},
+    {"name":"Óleo Diesel Vassouras"            ,"code":"0009","oil_type":"CO","company":"1","branch":"3","material":"05010001","local":"3" ,"brand":"76"}
+]);

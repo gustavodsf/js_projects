@@ -1,0 +1,16 @@
+extends ../layout
+
+block content
+  h1 User
+  h4 Name:
+  p= user.name
+  h4 Is Admin?
+  p= user.admin
+  h4 ID
+  p= user._id
+  if token
+    h4 Token
+    textarea(rows="10", cols="100", readonly="readonly")#token-txt= token
+
+
+  p: a(href="/") Home

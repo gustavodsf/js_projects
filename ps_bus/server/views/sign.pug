@@ -1,0 +1,16 @@
+extends layout
+
+block content
+  .panel#login
+    .panel-title
+      span= title
+    .panel-body
+      form(id="sign-up", method="post", action=action)
+        .input-group
+          label(for="name")
+          input(type="text",name="name", id="name" placeholder="Username").input-text
+        .input-group
+          label(for="password")
+          input(type="password",name="password", id="password", placeholder="Password").input-text
+        .input-group
+          input(type="submit").btn

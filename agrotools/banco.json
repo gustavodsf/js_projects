@@ -1,0 +1,32 @@
+{
+	"name": "mimosa",
+	"earring_number": 310,
+	"gender": "Fêmea",
+	"source": "externo",
+	"coat": "branca com marron",
+	"birthday": "28/08/2014",
+	"breed": "Holandesa",
+	"status": "Produção"
+}
+
+{
+	"name": "Estrela",
+	"earring_number": 311,
+	"gender": "Fêmea",
+	"source": "interno",
+	"coat": "branca",
+	"birthday": "29/09/2016",
+	"breed": "Holandesa",
+	"status": "Crescimento"
+}
+
+{
+	"name": "Macuco",
+	"earring_number": 311,
+	"gender": "Macho",
+	"source": "externo",
+	"coat": "preto",
+	"birthday": "28/06/2013",
+	"breed": "Jersey",
+	"status": "Produção"
+}

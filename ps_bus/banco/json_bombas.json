@@ -1,0 +1,20 @@
+db.pumps.remove({});
+db.pumps.insertMany([
+    {"name":"Bomba Três Rios"       ,"code":"1" ,"oil_type":"0001" ,"type":"CO"},
+    {"name":"Bomba Três Rios 2"     ,"code":"2" ,"oil_type":"0001" ,"type":"CO"},
+    {"name":"Bomba Além Paraíba"    ,"code":"3" ,"oil_type":"0003" ,"type":"CO"},
+    {"name":"Bomba Vassouras"       ,"code":"4" ,"oil_type":"0009" ,"type":"CO"},
+    {"name":"Bomba Barra Mansa"     ,"code":"5" ,"oil_type":"0010" ,"type":"CO"},
+    {"name":"Bomba Juiz de Fora"    ,"code":"6" ,"oil_type":"0011" ,"type":"CO"},
+    {"name":"Bomba São Jóse"        ,"code":"7" ,"oil_type":"0012" ,"type":"CO"},
+    {"name":"Bomba Paraíba do Sul"  ,"code":"8" ,"oil_type":"0013" ,"type":"CO"},
+    {"name":"Bombona Três Rios"     ,"code":"9" ,"oil_type":"0002" ,"type":"MO"},
+    {"name":"Bombona Além Paraíba"  ,"code":"10" ,"oil_type":"0004","type":"MO"},
+    {"name":"Bombona Vassouras"     ,"code":"11" ,"oil_type":"0018","type":"MO"},
+    {"name":"Bombona Barra Mansa"   ,"code":"12" ,"oil_type":"0023","type":"MO"},
+    {"name":"Bombona Juiz de Fora"  ,"code":"13" ,"oil_type":"0028","type":"MO"},
+    {"name":"Bombona São José"      ,"code":"14" ,"oil_type":"0033","type":"MO"},
+    {"name":"Bombona Paraiba do Sul","code":"15" ,"oil_type":"0038","type":"MO"},
+    {"name":"Bombona Areal"         ,"code":"16" ,"oil_type":"0002","type":"MO"},
+    {"name":"Bombona Barra Mansa 2" ,"code":"17" ,"oil_type":"0010","type":"CO"}
+]);
